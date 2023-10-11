@@ -2,7 +2,7 @@
 - 👀 I’m interested in vintage computers, demomaking, algorithmics and a lot of geek things in the real world !
 - 🌱 I’m currently learning compression algorithms, growing mushrooms, and making my own Lichtenberg figures
 - 💞️ I’m willing to collaborate on any emulator or vintage computer programming topics
-- 📫 How to reach me : Discord : CheshireCat#6455
+- 📫 How to reach me : Discord : cheshirecat6128
 
 <!---
 ClaireCheshireCat/ClaireCheshireCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
